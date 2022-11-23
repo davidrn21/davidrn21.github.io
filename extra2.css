@@ -1,0 +1,32 @@
+
+p.primero {
+text-indent:3cm;
+background:lightblue;
+color:white;
+border: 2px solid blue;
+}
+h3.disco {
+background:orange;
+color:white;
+text-indent:0.5cm;
+border: 2px solid yellow;
+}
+h3.web {
+text-indent:0.5cm;
+color:white;
+background:lightgreen;
+border: 2px solid green;
+}
+h2.titulo {
+text-indent:15cm;
+color:white;
+background:#ffcccb;
+border: 2px solid purple;
+}
+h5.exitos {
+text-indent:0.5cm;
+color:purple;
+}
+
+	
+	
